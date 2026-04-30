@@ -1,0 +1,66 @@
+{
+  "projectType": "general",
+  "projectName": "יסודות פון אידישער גראמאטיק",
+  "projectDescription": "A comprehensive Yiddish grammar and spelling handbook for writers and proofreaders.",
+  "theme": "almond",
+  "primaryColor": "#7B2D42",
+  "lightColor": null,
+  "darkColor": null,
+  "navigation": {
+    "groups": [
+      {
+        "group": "Introduction",
+        "pages": [
+          "introduction",
+          "intro-philosophy"
+        ]
+      },
+      {
+        "group": "Parts of Speech",
+        "pages": [
+          "parts-of-speech",
+          "nouns",
+          "verbs",
+          "adjectives",
+          "pronouns",
+          "invariants"
+        ]
+      },
+      {
+        "group": "Sentence Structure",
+        "pages": [
+          "sentences",
+          "prefixes-suffixes"
+        ]
+      },
+      {
+        "group": "Writing Guide",
+        "pages": [
+          "punctuation",
+          "key-points",
+          "dictionaries"
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Comprehensive coverage of Yiddish parts of speech (nouns, verbs, adjectives, pronouns, adverbs, prepositions, conjunctions)",
+    "Detailed verb conjugation rules for present, past, and future tenses",
+    "In-depth guide to Yiddish prefixes, suffixes, and compound words",
+    "Sentence structure analysis with subjects, direct and indirect objects",
+    "Practical writing tips for Yiddish proofreaders and editors",
+    "Overview of Yiddish dictionaries and reference resources",
+    "Discussion of standardization and grammar rules for the Haredi/Orthodox community",
+    "Cultural and historical context for Yiddish grammar conventions"
+  ],
+  "publicApiSurface": [
+    "Parts of speech taxonomy (nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions)",
+    "Verb conjugation tables (present, past, future tenses)",
+    "Noun declension by grammatical case (nominative, accusative, dative)",
+    "Prefix and suffix reference lists",
+    "Converbial (separable prefix) rules",
+    "Compound word formation rules",
+    "Punctuation conventions",
+    "Spelling guidelines and common corrections"
+  ]
+}
